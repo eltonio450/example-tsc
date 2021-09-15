@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "node"
+  },
+  "ignore": [
+    "dist",
+    "node_modules"
+  ],
+  "files": [
+    "example.ts"
+  ]
+}
